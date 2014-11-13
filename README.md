@@ -18,4 +18,4 @@ CyrillChevalley
 	* Mein Tutor liest dies nur, weil er dafür bezahlt wird.
 	* Der Text ist völlig belanglos.
 
-/* lat:unnötig, überflüssig
+\* lat:unnötig, überflüssig
